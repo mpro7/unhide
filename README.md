@@ -1,2 +1,2 @@
 # unhide
-Chrome extension designed to show poorly hidden content
+Chrome extension which shows hidden content
